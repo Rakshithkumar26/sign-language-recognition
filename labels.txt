@@ -1,0 +1,8 @@
+26 Hello
+27 Hey
+28 What's Up?
+29 My
+30 Name is
+31 Nice
+32 Meet you
+33 How are you?
